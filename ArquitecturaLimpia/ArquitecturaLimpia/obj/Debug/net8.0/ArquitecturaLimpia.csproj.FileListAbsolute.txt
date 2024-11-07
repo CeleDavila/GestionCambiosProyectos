@@ -1,0 +1,140 @@
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\ArquitecturaLimpia.exe
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\appsettings.json
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\ArquitecturaLimpia.deps.json
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\ArquitecturaLimpia.runtimeconfig.json
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\ArquitecturaLimpia.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\ArquitecturaLimpia.pdb
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.csproj.AssemblyReference.cache
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.AssemblyInfoInputs.cache
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.AssemblyInfo.cs
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.csproj.CoreCompileInputs.cache
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\Arquitec.E75FF9C5.Up2Date
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\refint\ArquitecturaLimpia.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.pdb
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.genruntimeconfig.cache
+C:\Users\HOMERO TAPIA VASQUEZ\Documents\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ref\ArquitecturaLimpia.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\ArquitecturaLimpia.exe
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\appsettings.json
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\ArquitecturaLimpia.deps.json
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\ArquitecturaLimpia.runtimeconfig.json
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\ArquitecturaLimpia.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\ArquitecturaLimpia.pdb
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.csproj.AssemblyReference.cache
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.AssemblyInfoInputs.cache
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.AssemblyInfo.cs
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.csproj.CoreCompileInputs.cache
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\Arquitec.E75FF9C5.Up2Date
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\refint\ArquitecturaLimpia.dll
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.pdb
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ArquitecturaLimpia.genruntimeconfig.cache
+C:\Users\HOMERO TAPIA VASQUEZ\Desktop\PORTAFOLIO IV CICLO\Programación Concurrente (Carlos B. Guerrero)\AA08_Dávila Barboza Celeni\ArquitecturaLimpia\ArquitecturaLimpia\obj\Debug\net8.0\ref\ArquitecturaLimpia.dll
